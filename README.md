@@ -53,9 +53,9 @@ The dataset was created by merging 5 different datasets:
  
  - Stalog (Heart) Data Set: 270 observations
 
-**Total initial volume:** 1190 observations
-**Duplicates removed:** 272 observations
-**Final volume:** 918 observations
+**Total initial volume:** 1190 observations  
+**Duplicates removed:** 272 observations  
+**Final volume:** 918 observations  
 
 ### Data Attributes
 
@@ -74,10 +74,6 @@ The dataset was created by merging 5 different datasets:
 | **ST\_Slope**      | Slope of the peak exercise ST segment \[Up: upsloping, Flat: flat, Down: downsloping]                                                                                                                   | categorical      |
 | **HeartDisease**   | Output class \[1: heart disease, 0: Normal]                                                                                                                                                             | binary           |
 
-
-###**Source**
-
-[Data obtained from the UCI Machine Learning Repository:](https://archive.ics.uci.edu/ml/machine-learning-databases/heart-disease/)
 
 ###**Dataset creators:**
 
