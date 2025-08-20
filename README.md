@@ -8,6 +8,8 @@ A machine learning project for predicting heart disease using linear models.
 
 ## 📋 About the project
 
+![heart](https://github.com/yarmukh/Heart-Failure-Data/blob/main/heart%20(3).png)
+
 This project uses machine learning methods to classify patients based on the presence or absence of heart disease. The project is based on linear models such as logistic regression.  
 [**Link to the dataset from Keggel**](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction)
 
