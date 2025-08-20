@@ -1,25 +1,29 @@
-# Обнаружение сердечных заболеваний с помощью линейной модели
+# Detection of heart disease using a linear model
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
-Проект по машинному обучению для предсказания сердечных заболеваний с использованием линейных моделей.
+A machine learning project for predicting heart disease using linear models.
 
-## 📋 О проекте
+## 📋 About the project
 
-Этот проект использует методы машинного обучения для классификации пациентов на основе наличия или отсутствия сердечных заболеваний. В основе проекта лежат линейные модели, такие как логистическая регрессия.
+This project uses machine learning methods to classify patients based on the presence or absence of heart disease. The project is based on linear models such as logistic regression.
 
-## 🚀 Быстрый старт
+## 🚀 Quick start
 
-### Предварительные требования
+### Preliminary requirements
 
-- Python 3.8 или выше
-- pip (менеджер пакетов Python)
+- Python 3.8 or higher
+- pip (Python package manager)
 
-### Установка
+### Installation
 
-1. Клонируйте репозиторий:
+1. Clone the repository:
 ```bash
 git clone https://github.com/your-username/heart-disease-detection.git
 cd heart-disease-detection
+
+## **view my decision**
+
+- [View IPython Notebook](https://github.com/yarmukh/Heart-Failure-Prediction/blob/main/notebook.ipynb)
