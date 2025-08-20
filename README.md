@@ -23,7 +23,8 @@ This project uses machine learning methods to classify patients based on the pre
 ```bash
 git clone https://github.com/your-username/heart-disease-detection.git
 cd heart-disease-detection
+```
 
-## **view my decision**
+## **view my solution**
 
 - [View IPython Notebook](https://github.com/yarmukh/Heart-Failure-Prediction/blob/main/notebook.ipynb)
