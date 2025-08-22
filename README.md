@@ -77,7 +77,7 @@ The dataset was created by merging 5 different datasets:
 | **HeartDisease**   | Output class \[1: heart disease, 0: Normal]                                                                                                                                                             | binary           |
 
 
-###**Dataset creators:**
+### **Dataset creators:**
 
 - Hungarian Institute of Cardiology, Budapest: Dr. Andras Janosi
 
