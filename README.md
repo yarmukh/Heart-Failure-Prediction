@@ -24,7 +24,7 @@ This project uses machine learning methods to classify patients based on the pre
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/heart-disease-detection.git
+git clone https://github.com/yarmukh/Heart-Failure-Prediction.git
 cd heart-disease-detection
 ```
 
